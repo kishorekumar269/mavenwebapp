@@ -6,7 +6,7 @@ trigger:
 - master
 
 resources:
-- repo: self
+- repo: selfadd
 
 variables:
   tag: '$(Build.BuildId)'
