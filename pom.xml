@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Gas-Release</name>
-	      <url>http://13.213.65.58:8081/repository/wallmart-release/</url>
+	      <name>madhu</name>
+	      <url>http://35.154.31.173:8081/repository/madhu/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Gas Snapshots</name>
-	      <url>http://13.213.65.58:8081/repository/walmart-snapshot/</url>
+	      <name>madhu_snapshot</name>
+	      <url>http://35.154.31.173:8081/repository/madhu_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
